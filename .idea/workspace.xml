@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5951aa7a-feb8-4216-8794-110db1de46b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrdenacaoNomes2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ordenacaoNomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeparacaoPorGenero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrdenacaoNomes2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,7 @@
     "onboarding.tips.debug.path": "C:/Mod_12/exercicio_12/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OrdenacaoNomes2">
+  <component name="RunManager" selected="Application.SeparacaoPorGenero">
     <configuration name="OrdenacaoNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrdenacaoNomes" />
       <module name="exercicio_12" />
@@ -53,6 +49,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeparacaoPorGenero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeparacaoPorGenero" />
+      <module name="exercicio_12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ordenacaoNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ordenacaoNomes" />
       <module name="exercicio_12" />
@@ -62,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeparacaoPorGenero" />
         <item itemvalue="Application.OrdenacaoNomes2" />
         <item itemvalue="Application.ordenacaoNomes" />
         <item itemvalue="Application.OrdenacaoNomes" />
